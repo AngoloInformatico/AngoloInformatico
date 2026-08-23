@@ -32,6 +32,7 @@ I miei progetti pubblici si concentrano principalmente su tre macro-settori:
 ![Debian](https://shields.io)
 ![Windows](https://shields.io)
 
+
 ---
 
 ## 🚀 Contatti & Link Ufficiali
