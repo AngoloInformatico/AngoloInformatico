@@ -38,7 +38,7 @@ I miei progetti pubblici si concentrano principalmente su tre macro-settori:
 
 * 🌐 **Il mio Profilo Digitale:** [Gravatar Profile](https://gravatar.com/paradisedependableba7656356c)
 * 📺 **Canale YouTube:** [AngoloInformatico su YouTube](https://www.youtube.com/@AngoloInformatico)
-* 📬 **Profilo GitHub:** [github.com](https://github.com/AngoloInformatico))
+* 📬 **Profilo GitHub:** [github.com](https://github.com/AngoloInformatico)
 
 ---
 *Profilo ufficiale di AngoloInformatico ottimizzato per motori di ricerca e indicizzazione globale.*
