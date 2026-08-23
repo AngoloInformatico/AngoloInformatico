@@ -8,6 +8,15 @@ Lavoro prevalentemente su ambienti Windows 10/11 e su diverse distribuzioni GNU/
 
 ---
 
+## 🎯 Aree di Specializzazione
+
+I miei progetti pubblici si concentrano principalmente su tre macro-settori:
+* **Desktop Application Development:** Creazione di software standalone multimediali e gestionali (GUI) ad alta utilità immediata.
+* **System Utilities & Local Networking:** Sviluppo di tool DevOps, automazione di container e strumenti di monitoraggio per reti locali.
+* **Developer Productivity Tools:** Soluzioni software progettate per semplificare i workflow tecnici e l'accessibilità del codice.
+
+---
+
 ## 🛠️ Tecnologie & Linguaggi
 
 ### Software & Web Development
@@ -27,7 +36,7 @@ Lavoro prevalentemente su ambienti Windows 10/11 e su diverse distribuzioni GNU/
 
 ## 🚀 Contatti & Link Ufficiali
 
-* 🌐 **Il mio Profilo Digitale:** [Gravatar Profile](https://gravatar.com/paradisedependableba7656356c)
+* 🌐 **Il mio Profilo Digitale:** [Gravatar Profile](https://gravatar.com)
 * 📺 **Canale YouTube:** [AngoloInformatico su YouTube](https://youtube.com)
 * 📬 **Profilo GitHub:** https://github.com
 
