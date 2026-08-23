@@ -20,18 +20,15 @@ I miei progetti pubblici si concentrano principalmente su tre macro-settori:
 ## 🛠️ Tecnologie & Linguaggi
 
 ### Software & Web Development
-![Python](https://shields.io)
-![JavaScript](https://shields.io)
-![Node.js](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+* **Python** 🐍
+* **JavaScript** 🟨
+* **Node.js** 🟢
+* **HTML5 & CSS3** 🌐
 
 ### Hardware, AI & Sistemi
-![Arduino](https://shields.io)
-![Linux](https://shields.io)
-![Debian](https://shields.io)
-![Windows](https://shields.io)
-
+* **Arduino & Elettronica** 🔌
+* **Linux & Debian** 🐧
+* **Windows** 🪟
 
 ---
 
