@@ -2,7 +2,7 @@
 
 Sviluppatore Full-Stack con un approccio orientato alla trasformazione di idee in soluzioni concrete, integrando competenze Software, AI ed Elettronica. Opero in ambito software, utilizzando tecnologie come Python, HTML, CSS, JavaScript, Node.js, ecc.. con sviluppo Backend e Frontend e in ambito hardware, con esperienza su Arduino, elettronica applicata, domotica e sistemi embedded. 
 
-Nutro una forte passione per l’Intelligenza Artificiale, che esploro e sperimento attivamente, integrandola in progetti capaci di unire valore tecnologico e creatività. Le mie principali aree di sviluppo includono software gestionali, applicazioni Office-Oriented e soluzioni Multimediali, con esperienza anche nello sviluppo di System Software quando richiesto. 
+Nutro una forte passione per l’Intelligenza Artificiale, che esploro e sperimento attivamente, integrandola in progetti capaci di unire valore tecnologico e creatività. Le mie principali aree di sviluppo includono software gestionali, applicazioni Office-Oriented e soluzioni Multimediali, con experience anche nello sviluppo di System Software quando richiesto. 
 
 Lavoro prevalentemente su ambienti Windows 10/11 e su diverse distribuzioni GNU/Linux, con particolare affinità per le Debian-based, che considero l’ambiente ideale per lo sviluppo, la sperimentazione e l’innovazione tecnologica.
 
@@ -17,26 +17,29 @@ I miei progetti pubblici si concentrano principalmente su tre macro-settori:
 
 ---
 
-## 🛠️ Tecnologie & Linguaggi
+## 🛠️ Tecnologie & Linguaggi (Web & App Stack)
 
-### Software & Web Development
-* **Python** 🐍
-* **JavaScript** 🟨
-* **Node.js** 🟢
-* **HTML5 & CSS3** 🌐
+### 💻 Sviluppo Web, Backend & Frontend
+* **Python** 🐍 (Linguaggio core per logica d'automazione, script di rete e GUI desktop avanzate con CustomTkinter)
+* **React** ⚛️ (Libreria per la creazione di interfacce utente dinamiche, reattive e componenti web moderni)
+* **TypeScript & JavaScript (ES6+)** 🟨 (Utilizzati per l'architettura logica avanzata e il controllo dinamico dei flussi web)
+* **Node.js** 🟢 (Runtime per lo sviluppo di architetture backend scalabili e webapp locali)
+* **HTML5 & CSS3** 🌐 (Strutturazione semantica dei contenuti web e design responsivo delle interfacce grafiche)
 
-### Hardware, AI & Sistemi
-* **Arduino & Elettronica** 🔌
-* **Linux & Debian** 🐧
-* **Windows** 🪟
+### 🔌 Hardware, AI & Sistemi Operativi
+* **C / C++ (Arduino)** 🤖 (Programmazione di microcontrollori, elettronica applicata e sistemi embedded domotici)
+* **GNU/Linux & Debian-based** 🐧 (Ambiente primario per lo sviluppo di system software, configurazione server e sperimentazione)
+* **Windows 10 / 11** 🪟 (Ambiente di deployment principale per software gestionali standalone e applicazioni multimediali)
+* **Docker** 🐳 (Infrastruttura container per l'automazione dei deployment locali e di rete)
 
 ---
 
 ## 🚀 Contatti & Link Ufficiali
 
-* 🌐 **Il mio Profilo Digitale:** [ Gravatar Profile ]([https://gravatar.com](https://gravatar.com/paradisedependableba7656356c)
-* 📺 **Canale YouTube:** [ AngoloInformatico su YouTube ]([https://youtube.com](https://www.youtube.com/@AngoloInformatico)
-* 📬 **Profilo GitHub:** [https://github.com](https://github.com/AngoloInformatico)
+* 🌐 **Il mio Profilo Digitale:** [Gravatar Profile](https://gravatar.com/paradisedependableba7656356c)
+* 📺 **Canale YouTube:** [AngoloInformatico su YouTube](https://www.youtube.com/@AngoloInformatico)
+* 📬 **Profilo GitHub:** [://github.com](https://github.com/AngoloInformatico))
 
 ---
 *Profilo ufficiale di AngoloInformatico ottimizzato per motori di ricerca e indicizzazione globale.*
+
